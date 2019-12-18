@@ -14,6 +14,7 @@ public class GitApplication {
         System.out.println("not");
         System.out.println("a");
         System.out.println("happy");
+        System.out.println("day");
     }
 
 }
