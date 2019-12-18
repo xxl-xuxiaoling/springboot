@@ -11,8 +11,9 @@ public class GitApplication {
         System.out.println("hahah");
         System.out.println("today");
         System.out.println("is");
-        System.out.println("a");
         System.out.println("not");
+        System.out.println("a");
+        System.out.println("happy");
     }
 
 }
